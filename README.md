@@ -1,5 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20174094.svg)](https://doi.org/10.5281/zenodo.20174094)
 
+## License
+This project is licensed under the Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 International License.
+Commercial use is prohibited without explicit permission from the author.
+
 # Golden Ratio Deep Learning (Φ)    EN language
 Implementation of the Golden Ratio (Φ ≈ 1.618) in deep neural networks. Comparative experiments between golden initialization and regularization versus Xavier's method, evaluating stability, convergence, and learning efficiency in PyTorch models.
 
