@@ -62,7 +62,7 @@ O objetivo é comparar inicialização, compressão topológica e regularizaçã
 
 ## ⚙️ Como usar
 1. Clone este repositório:
-   git clone https://github.com/<seu-usuario>/<nome-do-repo>.git
+   git clone https://github.com/wesleymelodev/golden-ratio-deep-learning.git
    
 2. Abra o notebook no Google Colab.
 
