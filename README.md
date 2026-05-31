@@ -25,7 +25,7 @@ The goal is to compare golden initialization, topological compression, and regul
 ## ⚙️ How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/wesleymelodev/golden-ratio-deep-learning.git
 2. Open the notebook in Google Colab.
 3. Run the training using Φ initialization and compare it with Xavier.
 4. Generated graphs and GIFs will be automatically saved to Google Drive.
