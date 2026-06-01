@@ -80,5 +80,4 @@ O objetivo é comparar inicialização, compressão topológica e regularizaçã
 
 Conclusão: a geometria áurea acelera a convergência, estabiliza gradientes e melhora a generalização.
 
-DOI: [10.5281/zenodo.20496945](https://doi.org/10.5281/zenodo.20496945)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20496945.svg)](https://doi.org/10.5281/zenodo.20496945)
