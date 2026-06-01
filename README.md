@@ -80,4 +80,5 @@ O objetivo é comparar inicialização, compressão topológica e regularizaçã
 
 Conclusão: a geometria áurea acelera a convergência, estabiliza gradientes e melhora a generalização.
 
-https://doi.org/10.5281/zenodo.20496945
+## Implementation of Non-Euclidean Geometries and Golden Curvature in Neural Network Architectures.pdf
+https://zenodo.org/api/records/20496945/draft/files/Implementation%20of%20Non-Euclidean%20Geometries%20and%20Golden%20Curvature%20in%20Neural%20Network%20Architectures.pdf/content
