@@ -80,5 +80,8 @@ O objetivo é comparar inicialização, compressão topológica e regularizaçã
 
 Conclusão: a geometria áurea acelera a convergência, estabiliza gradientes e melhora a generalização.
 
+## IMPLEMENTAÇÃO TÉCNICA DA PROPORÇÃO ÁUREA EM ARQUITETURAS DE REDES NEURAIS PROFUNDAS (DEEP LEARNING)
+https://www.academia.edu/167144936/IMPLEMENTA%C3%87%C3%83O_T%C3%89CNICA_DA_PROPOR%C3%87%C3%83O_%C3%81UREA_EM_ARQUITETURAS_DE_REDES_NEURAIS_PROFUNDAS_DEEP_LEARNING_
+
 ## Implementation of Non-Euclidean Geometries and Golden Curvature in Neural Network Architectures.pdf
 [https://zenodo.org/api/records/20496945/draft/files/Implementation%20of%20Non-Euclidean%20Geometries%20and%20Golden%20Curvature%20in%20Neural%20Network%20Architectures.pdf/content](https://zenodo.org/uploads/20496945)
