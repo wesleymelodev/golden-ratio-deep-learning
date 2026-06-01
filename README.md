@@ -79,3 +79,6 @@ O objetivo é comparar inicialização, compressão topológica e regularizaçã
    - Xavier atingiu ~92.53%.
 
 Conclusão: a geometria áurea acelera a convergência, estabiliza gradientes e melhora a generalização.
+
+DOI: [10.5281/zenodo.20496945](https://doi.org/10.5281/zenodo.20496945)
+
